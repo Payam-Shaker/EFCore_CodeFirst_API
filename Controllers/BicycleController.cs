@@ -39,7 +39,7 @@ namespace BicyleStoreAPI.Controllers
         }
 
         /// <summary>
-        /// Gets bicylce(s) retrieved by BrandId & return ProductModel & ProductionYear
+        /// Gets bicylce(s) retrieved by BrandId and return ProductModel and ProductionYear
         /// </summary>
         /// <param name="brandId"></param>
         /// <returns>bicycleList</returns>

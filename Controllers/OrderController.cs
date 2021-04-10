@@ -21,7 +21,7 @@ namespace BicyleStoreAPI.Controllers
             _bicyleStoreContext = bicycleStoreContext;
         }
         /// <summary>
-        /// Get customer & order quantity retrieved by OrderId. Returns CustomerId & Quantity 
+        /// Get customer and order quantity retrieved by OrderId. Returns CustomerId and Quantity 
         /// </summary>
         /// <param name="orderId"></param>
         /// <returns>orderList</returns>
